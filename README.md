@@ -1,4 +1,4 @@
-# MBA_Verdirelevans_eiendomsselskaper
+# Regnskapsmessig verdirelevans for verdsettelse av norske børsnoterte eiendomsselskaper
 Dette er analyser, koder og datafiler for resultatene i masteroppgaven "Regnskapsmessig verdirelevans for verdsettelse av norske børsnoterte eiendomsselskaper" av Edvard Hamnvik Sagelv og Sigurd Sogn Tjernes 
 
 # Analyse av regnskapsmessig verdirelevans for norske børsnoterte eiendomsselskaper
