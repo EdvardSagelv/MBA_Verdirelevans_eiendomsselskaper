@@ -21,15 +21,21 @@ Koden benytter følgende hovedkilder:
 
 Datagrunnlaget dekker i hovedsak perioden 2009–2025. Den endelige regresjonsanalysen omfatter et begrenset antall selskaper og selskapsår, noe som må tas hensyn til ved tolkning av resultatene.
 
+## Mappestruktur
+
+```text
 Masteroppgave/
 │
 ├── Data/
 │   ├── Kursdata uke for uke/
 │   │   └── uke_samlet.xlsx
+│   │
 │   ├── Titlon/
 │   │   └── selskaper_samlet_dagskurser.xlsx
+│   │
 │   ├── Bearbeidet/
 │   │   └── Alle bearbeidede .dta-filer
+│   │
 │   ├── kursdata.xlsx
 │   ├── ar_regnskap.xlsx
 │   ├── epra_nav_klar.xlsx
@@ -53,7 +59,6 @@ Masteroppgave/
     ├── Grafer/
     ├── Tabeller/
     └── Logg/
-
 
 ## Kodeoversikt
 
