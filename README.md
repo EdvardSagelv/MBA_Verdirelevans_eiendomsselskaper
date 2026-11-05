@@ -59,6 +59,7 @@ Masteroppgave/
     ├── Grafer/
     ├── Tabeller/
     └── Logg/
+```
 
 ## Kodeoversikt
 
