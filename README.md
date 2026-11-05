@@ -55,7 +55,6 @@ Masteroppgave/
     └── Logg/
 
 
-
 ## Kodeoversikt
 
 Do-filen er organisert i følgende hoveddeler:
