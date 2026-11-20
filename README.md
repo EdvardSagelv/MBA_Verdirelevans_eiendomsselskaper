@@ -4,7 +4,7 @@ Dette er analyser, koder og datafiler for resultatene i masteroppgaven "Regnskap
 
 ## Formål
 
-Dette repositoriet inneholder Stata-koden som er benyttet i masteroppgaven for MBA ved UiT *«Regnskapsmessig verdirelevans for verdsettelse av norske børsnoterte eiendomsselskaper»*, levert desember 2026. Formålet med analysen er å undersøke sammenhengen mellom regnskapsbaserte finansielle nøkkeltall og markedsbaserte verdsettelsesmål for norske børsnoterte eiendomsselskaper.
+Dette repositoriet inneholder Stata-koden som er benyttet i masteroppgaven for Erfaringsbasert master i økonomi og strategisk ledelse, Master of Buisness Administration (MBA) ved UiT Norges Arktiske Universitet: *«Regnskapsmessig verdirelevans for verdsettelse av norske børsnoterte eiendomsselskaper»*, levert desember 2026. Formålet med studien i denne oppgaven var å undersøke sammenhengen mellom regnskapsbaserte finansielle nøkkeltall og markedsbaserte verdsettelsesmål for norske børsnoterte eiendomsselskaper.
 
 Analysen er basert på et observasjonelt paneldatasett med selskaps- og årsobservasjoner. Regnskapsdata kobles sammen med aksjekurser, markedsverdier, EPRA-baserte verdsettelsesmål og markedsbaserte risikofaktorer. Databehandlingen og de statistiske analysene er gjennomført i Stata.
 
