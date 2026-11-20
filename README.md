@@ -13,8 +13,8 @@ Analysen er basert på et observasjonelt paneldatasett med selskaps- og årsobse
 Koden benytter følgende hovedkilder:
 
 - **Årsregnskaper:** Regnskapsopplysninger fra selskapenes årsregnskaper registrert i Brønnøysundregisteret, publisert på proff.no.
-- **Kursdata:** Historiske aksjekurser og markedsverdier for de aktuelle selskapene per år. Disse er hentet fra Titlon.
-- - **TITLON:** Markedsbaserte risikofaktorer: SMB, HML, MOM og LIQ.
+- **Kursdata:** Historiske aksjekurser og markedsverdier for de aktuelle selskapene per år. Disse er hentet fra Titlon, foruten om antall utestående aksjer for PPG, som er preferanseaksjer i TITLON. Antall utestående aksjer for PPG er hentet fra årsrapportene til PPG.
+- **TITLON:** Markedsbaserte risikofaktorer: SMB, HML, MOM og LIQ.
 - **Markedsindekser:** OSEBX, OSEBX Real Estate og OBX, benyttet til beregning av markedsbeta, data er hentet som ukesdata i Investing.com.
 - **EPRA-data:** EPRA NAV/NTA og tilsvarende verdsettelsesmål fra selskapenes rapportering, hentet fra årsregnskaper, eller beregnet selv som beskrevet i oppgaven, sjekk munin.uit.no når publisert.
 
